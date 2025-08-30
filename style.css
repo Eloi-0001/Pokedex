@@ -71,15 +71,20 @@ input::placeholder {
   margin: 0 5px;
 }
 
+#lupa {
+  width: 15px;
+  height: 15px;
+}
+
 .botao {
   border-radius: 20px;
   height: 35px;
+  width: 40px;
   margin: 0 5px;
   cursor: pointer;
   border: none;
   background: rgba(255, 255, 255, 0.3);
   color: white;
-  padding: 0 15px;
 }
 
 .poke_info {
